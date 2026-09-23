@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "ceac7f9f092d0b2528d16f26",
+  "owner": "tajavaq",
+  "repo": "page-589c500cda545c95302c0945",
+  "title": "咸鱼云(XyCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "589c500cda545c95302c0945",
+      "a": "咸鱼云(XyCloud)",
+      "b": "2027最新官网",
+      "entity": "咸鱼云(XyCloud)",
+      "brand": "咸鱼云(XyCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "488854531b95b3c5b5555badc1ce6e64aad64d5ea8083c9756ee696572c17ffe",
+      "content": {
+        "primary_entity": "咸鱼云(XyCloud)",
+        "keyword1": "咸鱼云(XyCloud)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，依订阅导入文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "从基础版到团队版，按设备与流量需求选好套餐即可开始配置订阅。",
+          "AI_CLOSING_TITLE": "选对套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档方案，分别支持3台、5台和20台设备同时在线，月付价格从¥15到¥85，年付可省两个月费用。节点覆盖普通线路到IPLC专线，旗舰版针对游戏加速与流媒体解锁做优化，团队版面向高带宽与多设备场景。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与订阅周期三个角度选择合适版本。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持3台设备与每月100GB流量，适合个人轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持5台设备与每月300GB流量，含IPLC专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版支持20台设备与每月1000GB流量，适合小组或家庭多终端。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与线路",
+          "AI_FEATURE_TITLE_3": "多终端场景",
+          "AI_GUIDE_INTRO": "选套餐、看适配要求、按客户端文档配置订阅，三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "咸鱼云(XyCloud)提供多档海外加速套餐，覆盖基础、旗舰与团队版本，支持不同设备数量与流量需求。选择对应套餐后，按客户端订阅导入步骤即可配置使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "年付节省两个月费用",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线优化",
+          "AI_PLANS_INTRO": "基础版¥15/月适合轻度使用，旗舰版¥35/月兼顾游戏与流媒体，团队版¥85/月满足多设备高带宽需求。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量与每月流量需求，在基础版、旗舰版和团队版中选择。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的在线设备数与线路类型，匹配自己的使用场景。",
+          "AI_STEP_TEXT_3": "按对应客户端配置文档导入订阅，完成设备连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "咸鱼云套餐一览",
+          "AI_FAQ_ANSWER_1": "基础版含 100GB 月流量，旗舰版 300GB，团队版 1000GB；按需挑选即可。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台；同时在线数依套餐而定。",
+          "AI_FAQ_ANSWER_3": "旗舰版对游戏做了 IPLC 专线优化，团队版提供 VIP 高带宽节点，可优先考虑。",
+          "AI_FAQ_ANSWER_4": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，可按周期选择。",
+          "AI_FAQ_ANSWER_5": "先确认设备数量与流量需求，再对照套餐列表选定档位，下载匹配客户端导入订阅。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐的月流量分别有多少？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "玩游戏选哪个套餐更合适？",
+          "AI_FAQ_QUESTION_4": "按月付与按年付价格差多少？",
+          "AI_FAQ_QUESTION_5": "从挑选到开始使用需要做哪些步骤？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqv0xktt.com",
+    "host": "xn--9kqv0xktt.com"
+  },
+  "file_hashes": {
+    "index.html": "b497590a35d2273ae286763edf326b0e8ebe5c9c0fd048c84cf66a171851890e",
+    "sitemap.xml": "fe66ab454d47168cef53c5cfc4f10519c44030843ac8087430f7d01a0fb88c86",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "807e1215fbf82f280823d3108ced68d8974aeb9e4f7d3fdf351a5cdaa2559b63",
+    "robots.txt": "8ff0a0f3031a757831bc6ac334cf0c8af03b8c2cc7f5a9aee5eedfdaac1ac971",
+    "ee5dd316a00e5fe4cdb3cd09d5e52079.txt": "12837046493869883d4fb01ddcb75d538a27777fbc865865d911dd48b33ce9ed"
+  },
+  "revision": "acd7cd67889a29c0ec9e13b0845a4d6b2de9de762266b7a074126e2965926dac"
+}
